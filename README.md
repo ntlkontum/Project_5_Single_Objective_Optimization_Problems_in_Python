@@ -9,7 +9,8 @@
 - Binary Integer Programming (BIP)- Decision variables: Binary (0 or 1 only)
 - Mixed-Integer Programming (MIP)- Decision variables: Some integer, some continuous
 
-In this project, I solve optimization problems using direct built-in functions in common optimization libraries like **PuLP** and **Gurobi**, and handle more complex optimization problems using Python programming.
+In this project, I solve optimization problems using direct built-in functions in common optimization libraries like **PuLP**, **Gurobi** and **OR-Tools** and handle more complex optimization problems using Python programming.
 
-![image](https://github.com/user-attachments/assets/59a44f4c-23d5-4106-a650-b054a6ad41b2)  ![image](https://github.com/user-attachments/assets/a85c53f3-fbd8-446e-850b-84a135e2ba5e)
+![image](https://github.com/user-attachments/assets/59a44f4c-23d5-4106-a650-b054a6ad41b2)  ![image](https://github.com/user-attachments/assets/a85c53f3-fbd8-446e-850b-84a135e2ba5e)   ![image](https://github.com/user-attachments/assets/8004da48-9541-40f3-9f35-859098fef5c6)
+
 
