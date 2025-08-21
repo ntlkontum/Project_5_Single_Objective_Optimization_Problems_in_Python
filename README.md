@@ -1,6 +1,6 @@
-# Project 5: Solve Optimization Problems in Python
+# Project 5: Solve Single Objective Optimization Problems in Python
 
-**Optimization Problems**: An optimization problem involves finding the best solution (maximum or minimum) for an objective function within a set of constraints. In manufacturing and supply chains, the results of optimization problems help optimize the supply chain, plan production and delivery schedules, and allocate resources
+**Single Objective Optimization Problems (SOOP)**: An optimization problem involves finding the best solution (maximum or minimum) for an objective function within a set of constraints. In manufacturing and supply chains, the results of optimization problems help optimize the supply chain, plan production and delivery schedules, and allocate resources
 
 **Main types:**
 - Linear Optimization (LP) – Both the objective function and constraints are linear.
